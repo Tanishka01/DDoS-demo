@@ -1,0 +1,474 @@
+*{
+  margin:0%;
+  padding:0%;
+  
+}
+.heading{
+  position: absolute;
+  width: 872px;
+  height: 47px;
+  left: 204px;
+  right: 204px;
+  top: 50px;
+  bottom: 2211px;
+  color: rgb(24, 39, 110);
+font-family: Work Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 47px;
+letter-spacing: 17%;
+text-align: center;
+text-transform: uppercase;
+}
+.definition{
+  position: absolute;
+  width: 1000px;
+  height: 95px;
+  left: 130px;
+  right: 204px;
+  top: 145px;
+  bottom: 2066px;
+  color: rgb(0, 0, 0);
+  font-family: Work Sans;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0%;
+  text-align: justify;
+  text-transform: uppercase;
+}
+.lets{
+  position: absolute;
+  width: 872px;
+  height: 14px;
+  left: 130px;
+  right: 204px;
+  top: 250px;
+  bottom: 1988px;
+  color: rgb(0, 0, 0);
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+.rectangle{
+  position: absolute;
+  left: 130px;
+  right:0;
+  width: 79%;
+  height: 525px;
+  top: 300px;
+  bottom: 1577px;
+  background: rgb(37, 50, 114);
+  margin: 0;
+  padding:0;
+  border-radius: 16px;
+  box-shadow: 4px 14px 18.6px 0px rgba(0, 0, 0, 0.35);
+}
+.videoo{
+  position: absolute;
+  
+  width: 871px;
+  height: 311px;
+  left: 180px;
+  right: 0px;
+  top: 20px;
+  bottom: 20px;
+}
+.vframe{
+  position: absolute; 
+  left: 0;
+  right:0;
+  width: 100%;
+  height: 525px;
+  top:1px;
+  bottom: 1577px;
+}
+
+.setup-head{
+  position: absolute;
+  width: 400px;
+  height: 21px;
+  left: 130px;
+  right: 204px;
+  top: 900px;
+  bottom: 1490px;
+  color: rgb(24, 39, 110);
+  font-family: Inter;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 0px;
+  letter-spacing: 0%;
+  text-align: justify;
+}
+.program{
+  /* Programme: */
+position: absolute;
+width: 99px;
+height: 24px;
+left: 130px;
+right: 204px;
+top: 950px;
+bottom: 42px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 16px;
+font-weight: 600;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: justify;
+}
+.texta{
+  position: absolute;
+  width: 1000px;
+  height: 24px;
+  left: 130px;
+  right: 204px;
+  top: 980px;
+  bottom: 0;
+  color: rgb(0, 0, 0);
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0%;
+  text-align: justify;
+}
+.vm{
+  position: absolute;
+width: 200px;
+height: 24px;
+left: 130px;
+right: 204px;
+top: 1020px;
+bottom: 42px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 16px;
+font-weight: 600;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: justify;
+
+}
+.textb{
+  position: absolute;
+  width: 1000px;
+  height: 24px;
+  left: 130px;
+  right: 204px;
+  top: 1050px;
+  bottom: 0;
+  color: rgb(0, 0, 0);
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0%;
+  text-align: justify;
+
+}
+.textb2{
+  position: absolute;
+  width: 1000px;
+  height: 24px;
+  left: 65px;
+  right: 204px;
+  top: 550px;
+  bottom: 0;
+  color: rgb(0, 0, 0);
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0%;
+  text-align: justify;
+}
+.network{
+  position: absolute;
+width: 181px;
+height: 21px;
+left: 130px;
+right: 204px;
+top: 1160px;
+bottom: 45px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 16px;
+font-weight: 600;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: justify;
+}
+.textc{
+  position: absolute;
+width: 1000px;
+height: 41px;
+left: 130px;
+right: 204px;
+top: 1190px;
+bottom: -14px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: justify;
+}
+.security{
+  position: absolute;
+width: 181px;
+height: 21px;
+left: 130px;
+right: 204px;
+top: 1230px;
+bottom: 45px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 16px;
+font-weight: 600;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: justify;
+}
+.textd{
+  position: absolute;
+width: 1000px;
+height: 41px;
+left: 130px;
+right: 204px;
+top: 1260px;
+bottom: -14px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: justify;
+}
+
+.setup{
+  left: 0%;;
+  right:0;
+  position: absolute;
+
+}
+
+.container {
+  position: absolute;
+  left: 130px;
+  right:0;
+  width: 79%;
+  height: 500px;
+  top: 1350px;
+  bottom: 1577px;
+  background: rgb(37, 50, 114);
+  margin: 0;
+  padding:0;
+  border-radius: 16px;
+  box-shadow: 4px 14px 18.6px 0px rgba(0, 0, 0, 0.35);
+}
+.command-head{
+  position: absolute;
+  width: 400px;
+  height: 21px;
+  left: 50px;
+  right: 204px;
+  top: 50px;
+  bottom: 1490px;
+  color: rgb(255, 184, 0);
+  font-family: Inter;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 0px;
+  letter-spacing: 0%;
+  text-align: justify;
+}
+.ping{
+  
+position: absolute;
+width: 99px;
+height: 24px;
+left: 50px;
+right: 204px;
+top: 100px;
+bottom: 42px;
+color:rgb(255, 255, 255);
+font-family: Inter;
+font-size: 16px;
+font-weight: 600;
+line-height: 19px;
+letter-spacing: 0%;
+text-align: justify;
+}
+.pingc{
+  position: absolute;
+  width: 1000px;
+  height: 24px;
+  left: 50px;
+  right: 204px;
+  top: 130px;
+  bottom: 0;
+  color: rgb(239, 129, 0);
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0%;
+  text-align: justify;
+}
+.nmap{
+  
+  position: absolute;
+  width: 150px;
+  height: 24px;
+  left: 50px;
+  right: 204px;
+  top: 160px;
+  bottom: 42px;
+  color: rgb(255, 255, 255);
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 19px;
+  letter-spacing: 0%;
+  text-align: justify;
+}
+.nmapc{
+    position: absolute;
+    width: 1000px;
+    height: 24px;
+    left: 50px;
+    right: 204px;
+    top: 190px;
+    bottom: 0;
+    color: rgb(239, 129, 0);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: justify;
+}
+.nmapd{
+    position: absolute;
+    width: 1000px;
+    height: 24px;
+    left: 50px;
+    right: 204px;
+    top: 210px;
+    bottom: 0;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: justify;
+}
+.search{
+  
+    position: absolute;
+    width: 200px;
+    height: 24px;
+    left: 50px;
+    right: 204px;
+    top: 240px;
+    bottom: 42px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: justify;
+}
+.searchc{
+    position: absolute;
+    width: 1000px;
+    height: 24px;
+    left: 50px;
+    right: 204px;
+    top: 270px;
+    bottom: 0;
+    color: rgb(239, 129, 0);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: justify;
+}
+.searchd{
+    position: absolute;
+    width: 1000px;
+    height: 24px;
+    left: 50px;
+    right: 204px;
+    top: 290px;
+    bottom: 0;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: justify;
+}
+.flood{
+  
+    position: absolute;
+    width: 99px;
+    height: 24px;
+    left: 50px;
+    right: 204px;
+    top: 320px;
+    bottom: 42px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: justify;
+}
+.floodc{
+    position: absolute;
+    width: 500px;
+    height: 24px;
+    left: 50px;
+    right: 204px;
+    top: 350px;
+    bottom: 0;
+    color: rgb(239, 129, 0);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: justify;
+}
+.ip{
+  position: absolute;
+  width: 250px;
+  height: 50px;
+  left: 50px;
+  right: 204px;
+  top: 420px;
+  bottom: 0;
+  color: rgb(255, 255, 255);
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0%;
+  text-align: justify;
+}
+
+
+
